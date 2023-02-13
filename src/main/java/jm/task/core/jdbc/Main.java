@@ -17,6 +17,8 @@ public class Main {
         // clear table
         // drop table
 
+        // comment for commit
+
         // создание таблицы 'User'
         userService.createUsersTable();
 
